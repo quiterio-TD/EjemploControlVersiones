@@ -1,0 +1,25 @@
+---
+title: "Áreas"
+author: "Isaac Ruiz Quiterio"
+date: "2025-02-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Área círculo
+
+```{r}
+r <- 0.5
+Area <- pi*r^2
+```
+
+# Área cuadrado
+
+```{r}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
